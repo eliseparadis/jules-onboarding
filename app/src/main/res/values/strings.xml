@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MoodTracker</string>
+    <string name="todays_log">Today\'s Log</string>
+    <string name="exercised_today">Exercised today?</string>
+    <string name="steps">Steps: </string>
+    <string name="ate_enough_today">Ate enough today?</string>
+    <string name="add_mood">Add Mood</string>
+</resources>
